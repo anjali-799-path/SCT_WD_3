@@ -31,20 +31,6 @@ JavaScript (ES6) – Game logic & interactivity
 https://github.com/user-attachments/assets/c03ff89b-93c6-4dce-b309-507d91a5af87
 
 
-
-📂 Project Setup
-
-Clone the repository:
-
-git clone https://github.com/your-username/quiz-game-application.git
-
-
-Open the project folder and run index.html in your browser.
-
-📸 Screenshots
-
-(Add some screenshots or GIFs of your quiz game UI here)
-
 📌 Future Enhancements
 
 🔔 Timer-based questions
